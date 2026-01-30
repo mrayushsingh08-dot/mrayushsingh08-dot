@@ -12,6 +12,8 @@
 - 💬 Ask me about **JAVA,C,JAVA SCRIPT,REACT**
 
 - 📫 How to reach me **mrayushsingh08@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [https://mrayushsingh.netlify.app/](https://mrayushsingh.netlify.app/)
 
 - ⚡ Fun fact **My code works… until I touch it again😅**
 
