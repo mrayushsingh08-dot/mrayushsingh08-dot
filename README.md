@@ -98,3 +98,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   </a>
 </p>
+<h2 align="center">🐍 Watch My Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrayushsingh08-dot/mrayushsingh08-dot/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
