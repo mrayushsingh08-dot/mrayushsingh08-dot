@@ -15,7 +15,7 @@
 - 💬 Ask me about **Java, JavaScript, React, REST APIs & SQL**
 - 🧪 I enjoy building web applications and exploring machine learning
 - 📫 Reach me at **mrayushsingh08@gmail.com**
-- 🌐 Portfolio: [mrayushsingh.netlify.app](https://mrayushsingh.netlify.app/)
+- 🌐 Portfolio: [mrayushsingh.in](https://mrayushsingh.in/)
 - ⚡ Fun fact: Hope is not a deployment strategy. Automation is.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
